@@ -3,7 +3,7 @@
 
 Usernames of creator:
 - Almaravarion [Official Screeps server]
-- Eruannon [Screeps Plus]
+- Eruannon [Screeps Plus/Slack]
 
 Additional credits:
 - Original Bunker Design - by  Muon https://github.com/bencbartlett/Overmind/wiki/Bunkers for basic design of bunker; Modified in Gestalt
