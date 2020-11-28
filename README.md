@@ -1,5 +1,7 @@
 # Gestalt
-"GESTALT" Custom Screeps AI with distributed diplomacy and communication systems.
+"GESTALT" Custom Screeps AI with diplomacy and communication systems.
+
+WARNING: Public version is always obsolete in comparison to active code of owner;
 
 Usernames of creator:
 - Almaravarion [Official Screeps server]
