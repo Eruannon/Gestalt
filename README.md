@@ -11,4 +11,4 @@ Additional credits:
 - Original Bunker Design - by  Muon https://github.com/bencbartlett/Overmind/wiki/Bunkers for basic design of bunker; Modified in Gestalt
 - minCut library - by saruss; modified later by Chobobobo and Shibdib
 - autobahn library - by seancl;
-- traveller by bonzai
+- traveller by bonzaiferroni
