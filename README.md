@@ -12,3 +12,6 @@ Additional credits:
 - minCut library - by saruss; modified later by Chobobobo and Shibdib
 - autobahn library - by seancl;
 - traveller by bonzaiferroni
+
+Version 0.1 is as is;
+Version 0.2 is being fixed currently;
